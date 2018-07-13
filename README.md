@@ -34,4 +34,4 @@ To add more slides, modify the `content/_index.md` file.
 
 
 ## Related links:
-https://forestry.io/blog/harness-the-power-of-static-to-create-presentations/
+- https://forestry.io/blog/harness-the-power-of-static-to-create-presentations/
